@@ -51,7 +51,7 @@ Data was efficiently cleaned and transformed with MS excel tools. Some of the st
 This is an interactive dashboard
 You can interact with the report [here](https://introanalyst-my.sharepoint.com/:x:/g/personal/preyefiyai_introanalyst_onmicrosoft_com/Eb5zA6jrE45HvyR69Nv0T-wBlc9HFmBUWq5SGAD7b6U25w?e=XE33ue)
 
-![](Dashboard_image.png.png)
+![](interactive_dasboard.png)
 
 ## Insights
 
